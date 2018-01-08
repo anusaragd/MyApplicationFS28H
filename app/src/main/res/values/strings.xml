@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string name="hello">FS28 bluetooth demo - Slave Mode V1.0</string>
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning for devices &#8230;</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="Capture_Wsq">Capture_WSQ</string>
+    <string name="Capture_Raw">Capture_RAW</string>
+    <string name="Open_BT_Comm">Open BT Comm</string>
+    <string name="Stop">Stop</string>
+    <string name="Save">Save Image</string>
+    <string name="Message"></string>
+    <string name="ImageDes"></string>
+    <string name="textView1">Please select the file format to save.</string>
+    <string name="radioBitmap">Bitmap</string>
+    <string name="radioWSQ">WSQ</string>
+    <string name="radioSample">Futronic Sample</string>
+    <string name="radioANSI">ANSI Sample</string>
+    <string name="radioISO">ISO Sample</string>
+    <string name="textView2">File name: </string>
+    <string name="buttonOK">OK</string>
+</resources>
